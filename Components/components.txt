@@ -1,0 +1,9 @@
+Arduino Uno
+HC-SR04 Ultrasonic Sensor
+SG90 Servo Motor
+Red LED
+Green LED
+Buzzer
+Breadboard
+Jumper Wires
+USB Cable
